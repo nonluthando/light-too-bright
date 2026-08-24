@@ -1,10 +1,10 @@
-Were the Lights Too Bright for African Teams?
+# Were the Lights Too Bright for African Teams?
 
 A football analytics project exploring pressure, late-match performance, tactical risk, opponent strength, and squad depth at the 2026 FIFA World Cup.
 
 Were the lights too bright for African teams — or does the data tell a different story?
 
-Overview
+## Overview
 
 A late defeat does not necessarily mean a team choked.
 
@@ -19,7 +19,7 @@ This project investigates whether apparent late-match collapses among African te
 
 The analysis separates strategy, execution, and outcome rather than judging performance from the final score alone.
 
-Key Analysis
+## Key Analysis
 
 * Pre- vs post-80th-minute performance
 * Rolling Field Tilt
@@ -47,7 +47,7 @@ The Match Story timeline combines:
 
 This helps distinguish a sudden late collapse from a match where pressure accumulated steadily from the beginning.
 
-South Africa Case Study
+## South Africa Case Study
 
 A focused analysis of South Africa’s three World Cup matches examining:
 
